@@ -53,7 +53,7 @@ Bitcoin Price Visualization is a Google Colab notebook where visual interpretati
 #### Steps Followed
 
 - Imported required libraries
-- Perform data cleaning and feature engineering
+- Performed data cleaning and feature engineering
 - Visualized the data and made conclusions
 
 
