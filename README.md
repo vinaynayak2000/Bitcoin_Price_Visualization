@@ -1,10 +1,7 @@
 # Bitcoin_Price_Visualization
 
-# Stock Cast
+![Picture](bitcoin_visualization.png)
 
-![Picture](simple_stock_price.PNG)
-
-> A data driven web-application.
 
 ---
 
@@ -13,6 +10,7 @@ Your sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
+- [Steps Followed](#steps-followed)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -21,12 +19,12 @@ Your sections headers will be used to reference location of destination.
 
 ## Description
 
-Simple Stock Price is a simple data driven Web Application made with the help of Python and Streamlit. It visualizes the stock prices and also predicts the prices.
+Bitcoin Price Visualization is a Google Colab notebook where visual interpretation of bitcoin prices are shown.
 
 #### Technologies
 
 - Python
-- Visual Studio Code
+- Google Colab
 
 [Back To The Top](#Bitcoin_Price_Visualization)
 
@@ -36,7 +34,7 @@ Simple Stock Price is a simple data driven Web Application made with the help of
 
 - Fork this repository.
 - Install the required libraries.
-- Run the file using "streamlit run simple_stock_price.py" in the command prompt.
+- Run the file "Bitcoin.ipynb"
 
 [Back To The Top](#Bitcoin_Price_Visualization)
 
@@ -46,6 +44,17 @@ Simple Stock Price is a simple data driven Web Application made with the help of
 
 - pip install forex-python
 - pip install pandas
+
+
+[Back To The Top](#Bitcoin_Price_Visualization)
+
+---
+
+#### Steps Followed
+
+- Imported required libraries
+- Perform data cleaning and feature engineering
+- Visualized the data and made conclusions
 
 
 [Back To The Top](#Bitcoin_Price_Visualization)
